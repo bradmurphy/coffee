@@ -1,4 +1,4 @@
 Coffee
 ======
 
-Simple bootstrap website using yeoman.
+Minified bootstrap website created with yeoman.
